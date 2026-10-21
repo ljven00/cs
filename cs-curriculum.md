@@ -7,7 +7,6 @@
 - Lists
 - Dictionaries and Tuples
 - Files
-- Course Review and Final Exam
 
 ## CS 1102 Programming 1 (Java)
 
